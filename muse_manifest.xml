@@ -1,0 +1,107 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mnwtr00.github.io" resolutions="1x" timestamp="1602902639249">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="27040161" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="hamilton_olivia_resume_2020_(2).pdf" crc="4199781783" seo="true" mt="1590074917000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="untitled_artwork 1.png" crc="469181029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled_artwork 23 copy.png" crc="479866852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="untitled_artwork 23 copy 3-crop-u3952.png" crc="9377017" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aboutbutton.png" crc="247767731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shopbutton.png" crc="441612979" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0393 3_2x.jpg" crc="525751891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_9567 2.jpg" crc="4063464741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-1-crop-u1973.jpg" crc="133055368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-3.jpg" crc="4040971855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-2-crop-u2027.jpg" crc="4113341768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="urntitled_artwork 23.jpg" crc="493140492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0810 2.jpg" crc="309977831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4616.jpg" crc="4196018908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-crop-u2285.jpg" crc="420419596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0936.jpg" crc="4091497545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jakemcnrn_mss_vp_ac_2020_jpeg_mafia.jpg" crc="26460284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_0008-crop-u1033.jpg" crc="296363718" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="0-1.jpg" crc="140656790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-2.jpg" crc="4039719007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0.jpg" crc="4236946595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="aboutme.png" crc="4163594351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-5-crop-u3917.jpg" crc="34130320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-5-crop-u3937.jpg" crc="3759447815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0-5.jpg" crc="310744939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="511233448" seo="true" mt="1602900309098" redirect="true"/>
+</manifest>
